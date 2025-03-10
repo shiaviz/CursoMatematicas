@@ -19,8 +19,8 @@ body {
 
 /* Header */
 header {
-    background-color: #9eaf4c;
-    color: white;
+    background-color: #afa04c;
+    color: rgb(8, 4, 4);
     padding: 20px 0;
     text-align: center;
 }
@@ -60,7 +60,7 @@ main {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #030101;
     font-size: 1.8rem;
     margin-bottom: 10px;
 }
